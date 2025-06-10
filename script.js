@@ -2,7 +2,7 @@
 const songs = [
     {
         title: "深瀾的秘密",
-        audio: "audio/01深瀾的秘密.mp3",
+        audio: "/dontcare_Playlist_v3/audio/01深瀾的秘密.mp3",
         lyrics: `Verse 1
 喔海風輕輕吹過 柔軟了世界的輪廓
 陽光在波光閃爍 帶走心裡的困惑
@@ -56,7 +56,7 @@ Outro
     },
     {
         title: "啟航",
-        audio: "audio/02啟航.wav",
+        audio: "/dontcare_Playlist_v3/audio/02啟航.wav",
         lyrics: `E ala e, ka moana nui
 He 'ohana kākou, ho'omau i ka mana
 
@@ -134,7 +134,7 @@ Together we rise above the sea.`
     },
     {
         title: "搖滾花東",
-        audio: "audio/03有一種搖滾叫花東.wav",
+        audio: "/dontcare_Playlist_v3/audio/03有一種搖滾叫花東.wav",
         lyrics: `哦啊一耶央 黑呀哦一央
 我離開喧鬧的街頭， 來到這裡，感受海的節奏。
 山在遠方，靜靜守護，浪花拍打，像大地的手。
@@ -173,7 +173,7 @@ Together we rise above the sea.`
     },
     {
         title: "花瀾也是種生活",
-        audio: "audio/05花瀾也是種生活.wav",
+        audio: "/dontcare_Playlist_v3/audio/05花瀾也是種生活.wav",
         lyrics: `[Verse 1]
 放開壓力隨風走，藍天白雲最自由 在這靜謐的港口，心事隨意慢慢流 陽光輕輕閃爍，這刻只想享受。
 [Chorus]
@@ -190,7 +190,7 @@ Together we rise above the sea.`
     },
     {
         title: "跳舞吧太魯閣族",
-        audio: "audio/06GrigtaTurku跳舞吧太魯閣族.m4a",
+        audio: "/dontcare_Playlist_v3/audio/06GrigtaTurku跳舞吧太魯閣族.m4a",
         lyrics: `詞：基姜Kincyang
 曲：基姜Kincyang
 太魯閣族語協力：蔡光輝
@@ -243,7 +243,7 @@ Wis Wis Wis Wis`,
     },
     {
         title: "Hagay存在",
-        audio: "audio/07Hagay存在.m4a",
+        audio: "/dontcare_Playlist_v3/audio/07Hagay存在.m4a",
         lyrics: `《Hagay》
 詞：基姜Kincyang
 曲：基姜Kincyang
@@ -290,7 +290,7 @@ Hagay的存在，如同彩虹、山谷、陽光、星光。斑斕閃爍，讓黑
     },
     {
         title: "Iyakeisug不要放棄",
-        audio: "audio/08Iyakeisug不要放棄.wav",
+        audio: "/dontcare_Playlist_v3/audio/08Iyakeisug不要放棄.wav",
         lyrics: `小時候望著山的那一端
 以為夢想只要走得夠遠
 背著歌謠和祖先的語言
@@ -345,7 +345,7 @@ Iya keisug, I’ll keep going on`,
     },
     {
         title: "回憶中的思念",
-        audio: "audio/09回憶中的思念.mp3",
+        audio: "/dontcare_Playlist_v3/audio/09回憶中的思念.mp3",
         lyrics: `記得初次見面，你們可愛的模樣，
 每當思念湧上心頭，止不住流下的淚水
 止不住思念，努力讓自己的堅強
