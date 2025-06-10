@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>東Care 新歌發表會</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>東Care 新歌發表會</h1>
+            <p class="subtitle">內部播放頁</p>
+        </header>
+
+        <div class="player-section">
+            <div class="audio-player">
+                <audio id="audioPlayer" controls>
+                    <source id="audioSource" src="" type="audio/mpeg">
+                    您的瀏覽器不支援音頻播放。
+                </audio>
+                
+                <div class="player-controls">
+                    <button id="prevBtn" class="control-btn">⏮</button>
+                    <button id="playPauseBtn" class="control-btn play-pause">▶</button>
+                    <button id="nextBtn" class="control-btn">⏭</button>
+                </div>
+                
+                <div class="song-info">
+                    <h2 id="currentSongTitle">選擇一首歌曲開始播放</h2>
+                    <p id="currentSongIndex">- / -</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-section">
+            <div class="song-list">
+                <h3>歌曲列表</h3>
+                <div id="songListContainer"></div>
+            </div>
+            
+            <div class="song-details">
+                <div class="lyrics-section">
+                    <h3>歌詞</h3>
+                    <div id="lyricsContent" class="content-box">
+                        <p class="placeholder">請選擇歌曲查看歌詞</p>
+                    </div>
+                </div>
+                
+                <div class="concept-section">
+                    <h3>創作理念</h3>
+                    <div id="conceptContent" class="content-box">
+                        <p class="placeholder">請選擇歌曲查看創作理念</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
